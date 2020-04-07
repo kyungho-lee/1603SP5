@@ -1,0 +1,6 @@
+1. Occured the problem that character's materials their own parent material 
+
+2. It seems that happen crash that there are same character's files in same project folder
+
+3. Resolution is that remove files crashed and unitify only one thing as charcacter file 
+
