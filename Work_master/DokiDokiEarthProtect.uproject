@@ -10,6 +10,10 @@
 		},
 		{
 			"Name": "VRM4U",
+			"Enabled": false
+		},
+		{
+			"Name": "RenderDocPlugin",
 			"Enabled": true
 		}
 	]
